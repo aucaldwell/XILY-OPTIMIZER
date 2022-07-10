@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\bin\Debug\XILY OPTIMIZER.exe.config
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\bin\Debug\XILY OPTIMIZER.exe
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\bin\Debug\XILY OPTIMIZER.pdb
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY OPTIMIZER.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY OPTIMIZER.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY_OPTIMIZER.Download.resources
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY_OPTIMIZER.Form1.resources
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY_OPTIMIZER.Home.resources
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY_OPTIMIZER.Properties.Resources.resources
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY OPTIMIZER.csproj.GenerateResource.cache
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY OPTIMIZER.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY OPTIMIZER.exe
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY OPTIMIZER.pdb
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY_OPTIMIZER.Apps.resources
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY_OPTIMIZER.Clean_up.resources
+C:\Users\user\Desktop\XILY OPTIMIZER\XILY OPTIMIZER\obj\Debug\XILY_OPTIMIZER.Tweak.resources
